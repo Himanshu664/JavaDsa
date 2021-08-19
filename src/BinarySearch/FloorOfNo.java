@@ -20,7 +20,7 @@ public class FloorOfNo {
         return arr[end];
     }
     public static void main(String[] args) {
-        int[] arr={2,3,5,9,14,16,18};
+        int[] arr={2,3,5,9,14,16,18,20};
         int ans=binary(arr,15);
         System.out.println(ans);
     }
